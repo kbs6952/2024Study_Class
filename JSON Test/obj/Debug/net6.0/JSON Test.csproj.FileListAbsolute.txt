@@ -1,0 +1,18 @@
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\bin\Debug\net6.0\JSON Test.exe
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\bin\Debug\net6.0\JSON Test.deps.json
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\bin\Debug\net6.0\JSON Test.runtimeconfig.json
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\bin\Debug\net6.0\JSON Test.dll
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\bin\Debug\net6.0\JSON Test.pdb
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\JSON Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\JSON Test.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\JSON Test.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\JSON Test.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\JSON Test.sourcelink.json
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\JSON Test.dll
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\refint\JSON Test.dll
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\JSON Test.pdb
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\JSON Test.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\ref\JSON Test.dll
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\JSON Test.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\2024CSStudy\JSON Test\obj\Debug\net6.0\JSON Test.csproj.CopyComplete

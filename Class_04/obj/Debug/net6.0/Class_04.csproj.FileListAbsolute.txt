@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\bin\Debug\net6.0\Class_04.exe
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\bin\Debug\net6.0\Class_04.deps.json
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\bin\Debug\net6.0\Class_04.runtimeconfig.json
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\bin\Debug\net6.0\Class_04.dll
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\bin\Debug\net6.0\Class_04.pdb
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\obj\Debug\net6.0\Class_04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\obj\Debug\net6.0\Class_04.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\obj\Debug\net6.0\Class_04.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\obj\Debug\net6.0\Class_04.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\obj\Debug\net6.0\Class_04.sourcelink.json
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\obj\Debug\net6.0\Class_04.dll
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\obj\Debug\net6.0\refint\Class_04.dll
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\obj\Debug\net6.0\Class_04.pdb
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\obj\Debug\net6.0\Class_04.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\2024CSStudy\Class_04\obj\Debug\net6.0\ref\Class_04.dll

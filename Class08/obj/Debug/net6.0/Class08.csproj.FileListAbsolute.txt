@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\bin\Debug\net6.0\Class08.exe
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\bin\Debug\net6.0\Class08.deps.json
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\bin\Debug\net6.0\Class08.runtimeconfig.json
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\bin\Debug\net6.0\Class08.dll
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\bin\Debug\net6.0\Class08.pdb
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\obj\Debug\net6.0\Class08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\obj\Debug\net6.0\Class08.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\obj\Debug\net6.0\Class08.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\obj\Debug\net6.0\Class08.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\obj\Debug\net6.0\Class08.sourcelink.json
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\obj\Debug\net6.0\Class08.dll
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\obj\Debug\net6.0\refint\Class08.dll
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\obj\Debug\net6.0\Class08.pdb
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\obj\Debug\net6.0\Class08.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\2024CSStudy\Class08\obj\Debug\net6.0\ref\Class08.dll
